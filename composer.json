@@ -1,0 +1,17 @@
+{
+    "name": "stray223/b2b-rest-client",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "b2b\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Grigo",
+            "email": "grigorii.taranenko@gmail.com"
+        }
+    ]
+}
