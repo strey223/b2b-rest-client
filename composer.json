@@ -1,7 +1,8 @@
 {
     "name": "stray223/b2b-rest-client",
     "require": {
-        "guzzlehttp/guzzle": "^7.4"
+        "php": "^7.0",
+        "guzzlehttp/guzzle": "~6.0"
     },
     "autoload": {
         "psr-4": {
